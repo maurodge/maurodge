@@ -24,7 +24,7 @@ Iniciando no mundo da programação!
 ## E-mail para contato
 maurogodoy.import@gmail.com
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurodge&layout=compact)
 
 
 <!--
