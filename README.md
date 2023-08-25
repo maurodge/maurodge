@@ -25,7 +25,7 @@
 maurogodoy.import@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurodge&layout=compact)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maurodge&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!--
 **maurodge/maurodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
